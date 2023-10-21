@@ -8,6 +8,11 @@
     margin-right: 30px;
   }
 
+  .contact_section .heading_container img{
+  height: 300px;
+  width: 500px;
+}
+
   .hero_area {
     min-height: auto;
   }
