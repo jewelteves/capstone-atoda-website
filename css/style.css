@@ -564,12 +564,9 @@ a:focus {
 }
 
 .contact_section .heading_container img{
-  height: 300px;
-  width: 500px;
-}
-
-.contact_section .heading_container {
   margin-bottom: 25px;
+  width: 100%;
+  position: relative;
 }
 
 .contact_section .heading_container h2 {
