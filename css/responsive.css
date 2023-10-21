@@ -8,6 +8,11 @@
     margin-right: 30px;
   }
 
+   .heading_container .img-box{
+  height: 300px;
+  width: 500px;
+}
+
   .hero_area {
     min-height: auto;
   }
