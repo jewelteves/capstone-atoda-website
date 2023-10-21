@@ -563,9 +563,9 @@ a:focus {
   padding-bottom: 75px;
 }
 
-.contact_section .heading_container img{
-  height: 300px;
-  width: 500px;
+.contact_section .heading_container .img-box img{
+  max-height: 100%;
+  max-width: 100%;
 }
 
 .contact_section .heading_container {
