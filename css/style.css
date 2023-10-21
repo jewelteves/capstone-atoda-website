@@ -564,8 +564,22 @@ a:focus {
 }
 
 .contact_section .heading_container .img-box img{
-  max-height: 40%;
-  max-width: 70%;
+ height: 700px;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  padding: 0;
+}
+
+.contact_section .heading_container img {
+  height: 100%;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
 }
 
 .contact_section .heading_container {
