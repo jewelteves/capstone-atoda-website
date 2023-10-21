@@ -563,7 +563,10 @@ a:focus {
   padding-bottom: 75px;
 }
 
-
+.contact_section .heading_container .img-box img{
+  max-height: 400%;
+  max-width: 70%;
+}
 
 .contact_section .heading_container {
   margin-bottom: 25px;
